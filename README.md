@@ -1,2 +1,2 @@
 # DataExtractor
-Script para dumpear
+### Script para dumpear una API
